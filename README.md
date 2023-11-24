@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandy Aryadika</h1>
+<h1 align="center">Hi 👋, I'm Sandy Aryadika Widodo</h1>
 <h3 align="center">Undergraduate Informatics at UPN Veteran Jawa Timur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arizzhi&label=Profile%20views&color=0e75b6&style=flat" alt="arizzhi" /> </p>
