@@ -4,7 +4,7 @@
 
 <div align="center">
  
- 🔭 Saat ini saya sedang belajar di **UPN "Veteran" Jawa Timur**
+ 🔭 I am currently studying at **UPN "Veteran" Jawa Timur**
  
  🌱 I’m currently learning **JavaScript, Node.js, C++, Python, and sometimes open Linux software**
 
