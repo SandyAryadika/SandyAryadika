@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=SandyAryadika&color=lightgrey&style=plastic)
+
 <h3 align="center">Front-End & Back-End Enthusiast | UIUX Designer</h3>
 
 <br/>
