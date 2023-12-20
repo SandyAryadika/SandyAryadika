@@ -26,12 +26,22 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,javascript,c" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,javascript,nodejs,mysql" /><br>
 </div>
-
 <br/>
-<hr/>
-  <br/><br/><br/>
 
+<h2 align="center">💫 Interested With 💫</h2>
 <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=gcp,androidstudio,firebase,flutter,kotlin,tensorflow,unreal" />
+</div>
+<br/>
+
+<h2 align="center">✨ Design Tools ✨</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ai,ps" />
+</div>
+<br/>
+
