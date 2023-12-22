@@ -1,6 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SandyAryadika&color=lightgrey&style=plastic)
 
+<h2 align="center">Undergraduate Informatics at UPN "Veteran" Jawa Timur</h2>
 <h3 align="center">Front-End & Back-End Enthusiast | UIUX Designer</h3>
 
 <br/>
@@ -29,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,vscode,figma" />
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,python,java,javascript,nodejs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,cpp,javascript,nodejs,python" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,figma" /><br>
 </div>
 <br/>
 
